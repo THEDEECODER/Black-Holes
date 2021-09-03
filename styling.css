@@ -69,7 +69,6 @@ input
     transform: translate(-50%, -50%);
     text-transform: uppercase;
 }
-
 @keyframes slide{
     0%{
         background-image: url(https://backiee.com/static/wpdb/wallpapers/560x315/180182.jpg)
@@ -77,7 +76,7 @@ input
         33%{
         background-image: url(https://backiee.com/static/wpdb/wallpapers/560x315/219179.jpg)
     }
-        67%{
+        66%{
         background-image: url(https://backiee.com/static/wpdb/wallpapers/560x315/229093.jpg)
     }
 }
