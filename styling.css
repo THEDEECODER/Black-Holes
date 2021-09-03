@@ -14,6 +14,9 @@ body{
     height: 100%;
     z-index: 9;
 }
+section{
+    color: #C7FFED;
+}
 #what {
     padding: 50px;
     text-align: center;
@@ -50,7 +53,7 @@ h1 {
 }
 input
 {
-    background: grey;
+    background: #DEE2E6;
 }
 .section-top{
     width: 100%;
